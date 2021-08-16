@@ -15,23 +15,27 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="#">
-<img align="right" src='https://github-readme-stats.vercel.app/api?username=FakePhysicist&show_icons=true' width="400px" />
-</a>
+- 🏢 I'm currently working at **Worklife**
+- 🚀 I use daily:
+  ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
+  ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
+  ![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)
+  ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
+- 💻 I work using:
+  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
+  ![Matlab]
+- ⚡️ Fun fact: I'm a huge fan of Iron Man, I love to eat and travel
 
-## FakePhysicist
+[![FakePhysicist's github stats](https://github-readme-stats.vercel.app/api?username=fakephysicist&theme=dark&show_icons=true)](https://github.com/fakephysicist)
 
+<!-- wakatime_plugin_start -->
 
-> Tech-otaku save the world. 😝
+## 🌗 Weekly Development Breakdown
 
-<a href="#">
-<img align="right" src='https://github-readme-stats.vercel.app/api?username=FakePhysicist&show_icons=true' width="400px" />
-</a>
+```text
+Go          2 hrs 19 mins  ████████████████████▊  99.3%
+JSON        0 secs         ▏░░░░░░░░░░░░░░░░░░░░   0.6%
+Other       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
+```
 
-你好呀~
-
-我是 [FakePhysicist](https://fakephysicist.github.io/).
-
-喜欢一切新奇的东西, 兴趣十分广泛.
-
-有什么好玩的事也欢迎来找我啦~
+<!-- wakatime_plugin_end -->
