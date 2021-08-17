@@ -24,18 +24,14 @@ Here are some ideas to get you started:
 - 💻 I work using:
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
   ![Matlab]
-- ⚡️ Fun fact: I'm a huge fan of Iron Man, I love to eat and travel
+- ⚡️ Fun fact: 
+  - I am low in desire
+  - I love elliptical trainer
+  - I am not interested in hot pot
+  - I love eating 63
+  - I never thought about going home
 
-[![FakePhysicist's github stats](https://github-readme-stats.vercel.app/api?username=fakephysicist&theme=dark&show_icons=true)](https://github.com/fakephysicist)
+[![FakePhysicist's github stats](https://github-readme-stats.vercel.app/api?username=fakephysicist&show_icons=true)](https://github.com/fakephysicist)
 
-<!-- wakatime_plugin_start -->
-
-## 🌗 Weekly Development Breakdown
-
-```text
-Go          2 hrs 19 mins  ████████████████████▊  99.3%
-JSON        0 secs         ▏░░░░░░░░░░░░░░░░░░░░   0.6%
-Other       0 secs         ░░░░░░░░░░░░░░░░░░░░░   0.1%
-```
-
-<!-- wakatime_plugin_end -->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
