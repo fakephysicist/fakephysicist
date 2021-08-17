@@ -18,6 +18,13 @@
   ![Lighttools](https://img.shields.io/badge/-Lighttools-239120?style=plastic)
   ![Zemax](https://img.shields.io/badge/-Zemax-e6e6e6?style=plastic)
 - ⚡️ Fun fact: I love eating 63
+- 💖 Favorite: [😴, 📚]
+
+### 🔱 Top Languages
+
+[![FakePhysicist's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fakephysicist&hide=css,html&layout=compact)](https://github.com/fakephysicist)
+
+## ✨ Github Stats
 
 [![FakePhysicist's github stats](https://github-readme-stats.vercel.app/api?username=fakephysicist&show_icons=true)](https://github.com/fakephysicist)
 
