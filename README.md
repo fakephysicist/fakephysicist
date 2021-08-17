@@ -19,4 +19,7 @@
 [![FakePhysicist's github stats](https://github-readme-stats.vercel.app/api?username=fakephysicist&show_icons=true)](https://github.com/fakephysicist)
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
