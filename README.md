@@ -22,11 +22,11 @@
 
 ### 🔱 Top Languages
 
-[![FakePhysicist's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fakephysicist&hide=css,html&layout=compact)](https://github.com/fakephysicist)
+[![FakePhysicist's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fakephysicist](https://github.com/fakephysicist)
 
 ## ✨ Github Stats
 
-[![FakePhysicist's github stats](https://github-readme-stats.vercel.app/api?username=fakephysicist&show_icons=true)](https://github.com/fakephysicist)
+[![FakePhysicist's github stats](https://github-readme-stats.vercel.app/api?username=fakephysicist&show_icons=true&theme=buefy)](https://github.com/fakephysicist)
 
 <!--START_SECTION:waka-->
 ```text
