@@ -22,7 +22,7 @@
 
 ### 🔱 Top Languages
 
-[![FakePhysicist's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fakephysicist](https://github.com/fakephysicist)
+[![FakePhysicist's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fakephysicist)](https://github.com/fakephysicist)
 
 ## ✨ Github Stats
 
