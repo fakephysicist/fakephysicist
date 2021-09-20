@@ -30,8 +30,8 @@
 
 <!--START_SECTION:waka-->
 ```text
-Other         2 hrs 1 min     ██████████████▓░░░░░░░░░░   58.03 % 
-Python        1 hr 11 mins    ████████▓░░░░░░░░░░░░░░░░   34.16 % 
-Objective-C   15 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
+Python        3 hrs 54 mins   █████████████▒░░░░░░░░░░░   52.86 % 
+Other         3 hrs 13 mins   ███████████░░░░░░░░░░░░░░   43.47 % 
+Objective-C   15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
 ```
 <!--END_SECTION:waka-->
