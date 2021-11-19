@@ -30,7 +30,6 @@
 
 <!--START_SECTION:waka-->
 ```text
-JSON    4 mins          ████████████████░░░░░░░░░   64.22 % 
-Other   2 mins          █████████░░░░░░░░░░░░░░░░   35.78 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
