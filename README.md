@@ -30,8 +30,8 @@
 
 <!--START_SECTION:waka-->
 ```text
-Total: 0 secs
+Total: 17 mins
 
-
+Python   17 mins         █████████████████████████   99.62 % 
 ```
 <!--END_SECTION:waka-->
