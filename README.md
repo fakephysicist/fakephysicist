@@ -31,7 +31,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Bash     1 hr 6 mins     ███████████████████████▓░   94.04 %
+Other    2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 %
 ```
 
 <!--END_SECTION:waka-->
