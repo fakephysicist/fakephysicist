@@ -31,8 +31,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-HTML   10 hrs 6 mins   █████████████████████████   99.88 %
-CSS    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+HTML   1 hr 25 mins    █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
