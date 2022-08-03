@@ -29,14 +29,11 @@
 [![FakePhysicist's github stats](https://github-readme-stats.vercel.app/api?username=fakephysicist&show_icons=true&theme=buefy)](https://github.com/fakephysicist)
 
 <!--START_SECTION:waka-->
-
 ```text
-C++          15 hrs 30 mins  ███████████████░░░░░░░░░░   59.88 %
-Markdown     6 hrs 36 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.51 %
-CMake        1 hr 7 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 %
-Bash         1 hr 4 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 %
-JSON         28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 %
-Python       22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
+C++        15 hrs 30 mins  ███████████████░░░░░░░░░░   59.88 % 
+Markdown   6 hrs 36 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.51 % 
+CMake      1 hr 7 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+Bash       1 hr 4 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
+JSON       28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
 ```
-
 <!--END_SECTION:waka-->
