@@ -30,12 +30,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 03 August, 2022 - 10 August, 2022
+Week: 06 August, 2022 - 13 August, 2022
 
-Markdown     7 hrs 32 mins   >>>>>>>>>>>>-------------   49.01 % 
-Java         1 hr 53 mins    >>>----------------------   12.34 % 
-Git Config   1 hr 34 mins    >>>----------------------   10.24 % 
-Bash         1 hr 8 mins     >>>----------------------   07.41 % 
-C++          52 mins         >------------------------   05.74 % 
+Markdown      8 hrs 48 mins   >>>>>>>>>>>>>------------   53.31 % 
+MATLAB        2 hrs 51 mins   >>>>---------------------   17.27 % 
+Objective-C   1 hr 28 mins    >>-----------------------   08.89 % 
+Java          1 hr 8 mins     >>-----------------------   06.86 % 
+TeX           57 mins         >------------------------   05.82 % 
 ```
 <!--END_SECTION:waka-->
