@@ -30,7 +30,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 06 August, 2022 - 13 August, 2022
+Week: 07 August, 2022 - 14 August, 2022
 
 Markdown      8 hrs 48 mins   >>>>>>>>>>>>>------------   53.31 % 
 MATLAB        2 hrs 51 mins   >>>>---------------------   17.27 % 
