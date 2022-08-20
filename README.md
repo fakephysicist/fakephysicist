@@ -30,7 +30,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 11 August, 2022 - 18 August, 2022
+Week: 12 August, 2022 - 19 August, 2022
 
 MATLAB        8 hrs 21 mins   >>>>>>>>>>>>-------------   46.65 % 
 Objective-C   3 hrs 39 mins   >>>>>--------------------   20.39 % 
