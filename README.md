@@ -30,12 +30,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 12 August, 2022 - 19 August, 2022
+Week: 13 August, 2022 - 20 August, 2022
 
-MATLAB        8 hrs 21 mins   >>>>>>>>>>>>-------------   46.65 % 
-Objective-C   3 hrs 39 mins   >>>>>--------------------   20.39 % 
-Markdown      2 hrs 4 mins    >>>>---------------------   11.56 % 
-Other         1 hr 27 mins    >>-----------------------   08.13 % 
-YAML          47 mins         >------------------------   04.39 % 
+MATLAB        4 hrs 46 mins   >>>>>>>>>>---------------   40.96 % 
+Python        2 hrs 14 mins   >>>>>--------------------   19.20 % 
+Objective-C   2 hrs 11 mins   >>>>>--------------------   18.72 % 
+Markdown      1 hr 9 mins     >>-----------------------   09.91 % 
+Other         41 mins         >------------------------   05.94 % 
 ```
 <!--END_SECTION:waka-->
