@@ -30,7 +30,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 13 August, 2022 - 20 August, 2022
+Week: 14 August, 2022 - 21 August, 2022
 
 MATLAB        4 hrs 46 mins   >>>>>>>>>>---------------   40.96 % 
 Python        2 hrs 14 mins   >>>>>--------------------   19.20 % 
