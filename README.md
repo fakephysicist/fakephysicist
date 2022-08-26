@@ -30,7 +30,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 17 August, 2022 - 24 August, 2022
+Week: 18 August, 2022 - 25 August, 2022
 
 Python     5 hrs 30 mins   >>>>>>>>>>>>>>>>>--------   63.62 % 
 Markdown   1 hr 9 mins     >>>----------------------   13.35 % 
