@@ -30,7 +30,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 04 September, 2022 - 11 September, 2022
+Week: 05 September, 2022 - 12 September, 2022
 
 TeX        8 hrs 22 mins   >>>>>>>>>>>>>>>>>>>------   76.65 % 
 Markdown   2 hrs 5 mins    >>>>>--------------------   19.16 % 
