@@ -30,12 +30,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 07 September, 2022 - 14 September, 2022
+Week: 08 September, 2022 - 15 September, 2022
 
-Markdown     3 hrs 20 mins   >>>>>>>>>>>>>>>>>>>>>----   84.13 % 
-JSON         14 mins         >>-----------------------   06.05 % 
-TeX          11 mins         >------------------------   04.63 % 
-CSS          6 mins          >------------------------   02.60 % 
-Git Config   5 mins          >------------------------   02.14 % 
+Markdown     3 hrs 55 mins   >>>>>>>>>>>>>>>>>>>>>>>--   90.11 % 
+JSON         14 mins         >------------------------   05.53 % 
+CSS          6 mins          >------------------------   02.37 % 
+Git Config   4 mins          -------------------------   01.58 % 
 ```
 <!--END_SECTION:waka-->
