@@ -30,7 +30,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 11 September, 2022 - 18 September, 2022
+Week: 12 September, 2022 - 19 September, 2022
 
 Markdown     3 hrs 10 mins   >>>>>>>>>>>>>>>>>>>>>>>>-   91.56 % 
 JSON         10 mins         >------------------------   04.91 % 
