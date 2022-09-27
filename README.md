@@ -30,11 +30,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 18 September, 2022 - 25 September, 2022
+Week: 19 September, 2022 - 26 September, 2022
 
-Python     3 hrs 34 mins   >>>>>>>>>>>>>>>----------   60.54 % 
-Other      1 hr 13 mins    >>>>>--------------------   20.72 % 
-Markdown   1 hr 2 mins     >>>>---------------------   17.66 % 
-Text       3 mins          -------------------------   00.93 % 
+Python     5 hrs 1 min     >>>>>>>>>>>>>>>>>--------   68.34 % 
+Other      1 hr 13 mins    >>>>---------------------   16.60 % 
+Markdown   1 hr 2 mins     >>>>---------------------   14.21 % 
+Text       3 mins          -------------------------   00.75 % 
 ```
 <!--END_SECTION:waka-->
