@@ -30,12 +30,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 20 September, 2022 - 27 September, 2022
+Week: 21 September, 2022 - 28 September, 2022
 
-Python     5 hrs 34 mins   >>>>>>>>>>>>>>>>>--------   68.65 % 
-Other      1 hr 13 mins    >>>>---------------------   15.02 % 
-Markdown   1 hr 2 mins     >>>----------------------   12.86 % 
-TeX        13 mins         >------------------------   02.70 % 
-Text       3 mins          -------------------------   00.68 % 
+Python     4 hrs 42 mins   >>>>>>>>>>>>>>>>---------   64.89 % 
+Other      1 hr 13 mins    >>>>---------------------   16.83 % 
+Markdown   1 hr 2 mins     >>>>---------------------   14.39 % 
+TeX        13 mins         >------------------------   03.02 % 
+Text       3 mins          -------------------------   00.76 % 
 ```
 <!--END_SECTION:waka-->
