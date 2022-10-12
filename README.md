@@ -30,12 +30,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 03 October, 2022 - 10 October, 2022
+Week: 04 October, 2022 - 11 October, 2022
 
-Python     32 hrs 36 mins  >>>>>>>>>>>>>>>>>>>>>----   82.62 % 
-Markdown   3 hrs 40 mins   >>-----------------------   09.32 % 
-JSON       1 hr 39 mins    >------------------------   04.20 % 
-MATLAB     1 hr 7 mins     >------------------------   02.83 % 
-CSS        9 mins          -------------------------   00.38 % 
+Python        33 hrs 40 mins  >>>>>>>>>>>>>>>>>>>>>----   82.41 % 
+MATLAB        3 hrs 54 mins   >>-----------------------   09.58 % 
+JSON          1 hr 39 mins    >------------------------   04.07 % 
+Markdown      1 hr 2 mins     >------------------------   02.56 % 
+Objective-C   16 mins         -------------------------   00.68 % 
 ```
 <!--END_SECTION:waka-->
