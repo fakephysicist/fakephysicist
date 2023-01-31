@@ -17,7 +17,6 @@
   ![Lumerical](https://img.shields.io/badge/-Lumerical-685EA9?style=plastic)
   ![Lighttools](https://img.shields.io/badge/-Lighttools-239120?style=plastic)
   ![Zemax](https://img.shields.io/badge/-Zemax-e6e6e6?style=plastic)
-- ⚡️ Fun fact: I love eating 63
 - 💖 Favorite: [😴, 📚]
 
 ### 🔱 Top Languages
