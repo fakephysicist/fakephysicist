@@ -1,4 +1,4 @@
-# FakePhysicist
+# fakephysicist
 
 - 🏢 I'm a PhD Candidate
 - 🚀 I use daily:
